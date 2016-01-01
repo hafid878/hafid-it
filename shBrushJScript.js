@@ -1,23 +1,3 @@
-#
-Jenis
-Javascript
-Ukuran
-2 KB (1.649 bita)
-Penyimpanan yang digunakan
-2 KB (1.649 bita)
-Lokasi
-scripts
-Pemilik
-saya
-Diubah
-19.48 oleh saya
-Dibuka
-20.26 oleh saya
-Telah dibuat
-19.48
-Tambahkan deskripsi
-Pemirsa dapat mengunduh
-
 /**
  * SyntaxHighlighter
  * http://alexgorbatchev.com/SyntaxHighlighter
